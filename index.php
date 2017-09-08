@@ -82,10 +82,10 @@
             </li>
         </ul>
 
-        <img src="/images/newlist.jpg" alt="Your automatic mealplan here!" />
+        <img src="/images/newmealplan.jpg" alt="Your automatic mealplan here!" />
 
 </div>
 
 <?php include_once "common/sidebar.php"; ?>
 
-<?php include_once "common/footer.php"; ?>
+<?php include_once "common/close.php"; ?>
